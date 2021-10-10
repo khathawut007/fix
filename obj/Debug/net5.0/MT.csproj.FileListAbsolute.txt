@@ -1,0 +1,16 @@
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\MT.exe
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\MT.deps.json
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\MT.runtimeconfig.json
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\MT.runtimeconfig.dev.json
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\MT.dll
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\ref\MT.dll
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\bin\Debug\net5.0\MT.pdb
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.csproj.AssemblyReference.cache
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.AssemblyInfoInputs.cache
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.AssemblyInfo.cs
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.csproj.CoreCompileInputs.cache
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.dll
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\ref\MT.dll
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.pdb
+C:\Users\khath\OneDrive\Desktop\CODEEE\MT\obj\Debug\net5.0\MT.genruntimeconfig.cache
